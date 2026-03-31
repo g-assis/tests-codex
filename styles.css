@@ -32,6 +32,16 @@ body {
   padding: 4rem 0;
 }
 
+.alias {
+  display: inline-block;
+  background: #e2e8f0;
+  color: #334155;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.8rem;
+  margin: 0 0 1rem;
+}
+
 .tag {
   color: var(--muted);
   margin: 0 0 0.8rem;
